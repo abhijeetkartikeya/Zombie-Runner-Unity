@@ -61,5 +61,5 @@ The first version contained several issues:
 .gitignore  
 README.md
 
-MIT License © 2025 GTCxprice
+
 
