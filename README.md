@@ -59,7 +59,7 @@ The first version contained several issues:
   /Audio             → Music, sound effects  
 /ProjectSettings     → Unity project configuration  
 .gitignore  
-README.md
+README.md.
 
 
 
